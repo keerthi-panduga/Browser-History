@@ -1,0 +1,32 @@
+.heading {
+  font-size: 15px;
+  font-weight: normal;
+  margin-right: 10px;
+}
+.para {
+  font-size: 12px;
+}
+.time {
+  font-size: 15px;
+}
+.name-container {
+  display: flex;
+  flex-direction: row;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.img2 {
+  height: 30px;
+  width: 30px;
+}
+.img3 {
+  height: 30px;
+  width: 30px;
+}
+.img4 {
+  height: 20px;
+  width: 20px;
+}
